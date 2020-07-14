@@ -1,0 +1,196 @@
+{
+    "Ten": "Smart Tivi Cong Samsung 49 inch",
+    "Ma_so": "TIVI_1",
+    "Ky_hieu": "UA49MU6500",
+    "Don_gia_Ban": 29900000,
+    "Don_gia_Nhap": 18100000,
+    "So_luong_Ton": 24704,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 11,
+            "Don_gia": 18100000,
+            "Tien": 199100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 5,
+            "Don_gia": 18100000,
+            "Tien": 90500000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "14-07-2020",
+            "So_luong": 4,
+            "Don_gia": 18100000,
+            "Tien": 72400000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [
+        {
+            "Ngay": "02-01-2018",
+            "So_luong": 2,
+            "Don_gia": 18000000,
+            "Tien": 36000000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "10-07-2020",
+            "So_luong": 4,
+            "Don_gia": 18100000,
+            "Tien": 72400000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 12312,
+            "Don_gia": 18100000,
+            "Tien": 222847200000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 12312,
+            "Don_gia": 18100000,
+            "Tien": 222847200000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 3,
+            "Don_gia": 18100000,
+            "Tien": 54300000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 3,
+            "Don_gia": 18100000,
+            "Tien": 54300000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": -1,
+            "Don_gia": 18100000,
+            "Tien": -18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 1,
+            "Don_gia": 18100000,
+            "Tien": 18100000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        }
+    ],
+    "Nhom_Tivi": {
+        "Ten": "Samsung",
+        "Ma_so": "SAMSUNG"
+    }
+}
