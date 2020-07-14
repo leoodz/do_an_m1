@@ -1,0 +1,25 @@
+{
+    "Ten": "TV Philips",
+    "Ma_so": "TIVI_34",
+    "Ky_hieu": "49LH570T",
+    "Don_gia_Ban": 10420000,
+    "Don_gia_Nhap": 8520000,
+    "So_luong_Ton": 63,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "04-01-2018",
+            "So_luong": 1,
+            "Don_gia": 10420000,
+            "Tien": 10420000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyên văn bé Xíu",
+                "Ma_so": "NV_3"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [],
+    "Nhom_Tivi": {
+        "Ten": "Khác",
+        "Ma_so": "KHAC"
+    }
+}

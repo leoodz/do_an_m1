@@ -1,0 +1,35 @@
+{
+    "Ten": "TV BELCO",
+    "Ma_so": "TIVI_35",
+    "Ky_hieu": "32LE280X",
+    "Don_gia_Ban": 8640000,
+    "Don_gia_Nhap": 7540000,
+    "So_luong_Ton": 67,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 1,
+            "Don_gia": 8640000,
+            "Tien": 8640000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyên văn bé Xíu",
+                "Ma_so": "NV_3"
+            }
+        },
+        {
+            "Ngay": "04-01-2018",
+            "So_luong": 2,
+            "Don_gia": 8640000,
+            "Tien": 17280000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyên văn bé Xíu",
+                "Ma_so": "NV_3"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [],
+    "Nhom_Tivi": {
+        "Ten": "Khác",
+        "Ma_so": "KHAC"
+    }
+}

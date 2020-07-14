@@ -1,0 +1,36 @@
+{
+    "Ten": "TV LG",
+    "Ma_so": "TIVI_27",
+    "Ky_hieu": "43DS600V",
+    "Don_gia_Ban": 12930000,
+    "Don_gia_Nhap": 11330000,
+    "So_luong_Ton": 78,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 2,
+            "Don_gia": 12930000,
+            "Tien": 25860000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [
+        {
+            "Ngay": "04-01-2018",
+            "So_luong": 2,
+            "Don_gia": 11330000,
+            "Tien": 22660000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyên văn bé Xíu",
+                "Ma_so": "NV_3"
+            }
+        }
+    ],
+    "Nhom_Tivi": {
+        "Ten": "LG",
+        "Ma_so": "LG"
+    }
+}

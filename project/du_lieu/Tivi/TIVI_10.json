@@ -1,0 +1,96 @@
+{
+    "Ten": "Internet Tivi Sony 40 inch",
+    "Ma_so": "TIVI_10",
+    "Ky_hieu": "KDL-40W650D",
+    "Don_gia_Ban": 9990000,
+    "Don_gia_Nhap": 7990000,
+    "So_luong_Ton": 88,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 2,
+            "Don_gia": 9990000,
+            "Tien": 19980000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 1,
+            "Don_gia": 9990000,
+            "Tien": 9990000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 4,
+            "Don_gia": 9990000,
+            "Tien": 39960000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "02-01-2018",
+            "So_luong": 1,
+            "Don_gia": 9990000,
+            "Tien": 9990000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "04-01-2018",
+            "So_luong": 2,
+            "Don_gia": 9990000,
+            "Tien": 19980000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "08-01-2018",
+            "So_luong": 2,
+            "Don_gia": 9990000,
+            "Tien": 19980000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [
+        {
+            "Ngay": "04-01-2018",
+            "So_luong": 2,
+            "Don_gia": 7990000,
+            "Tien": 15980000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyên văn bé Xíu",
+                "Ma_so": "NV_3"
+            }
+        },
+        {
+            "Ngay": "12-07-2020",
+            "So_luong": 11,
+            "Don_gia": 7990000,
+            "Tien": 87890000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        }
+    ],
+    "Nhom_Tivi": {
+        "Ten": "Sony",
+        "Ma_so": "SONY"
+    }
+}

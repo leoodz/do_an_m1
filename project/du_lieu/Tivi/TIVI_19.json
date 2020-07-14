@@ -1,0 +1,25 @@
+{
+    "Ten": "Smart Tivi LED 4K SONY 65 Inch",
+    "Ma_so": "TIVI_19",
+    "Ky_hieu": "KD_65X9300E",
+    "Don_gia_Ban": 5520000,
+    "Don_gia_Nhap": 3720000,
+    "So_luong_Ton": 65,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 2,
+            "Don_gia": 5520000,
+            "Tien": 11040000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [],
+    "Nhom_Tivi": {
+        "Ten": "Sony",
+        "Ma_so": "SONY"
+    }
+}

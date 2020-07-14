@@ -1,0 +1,25 @@
+{
+    "Ten": "Internet Tivi LED SONY 32 Inch",
+    "Ma_so": "TIVI_13",
+    "Ky_hieu": "KDL_32W600D",
+    "Don_gia_Ban": 11290000,
+    "Don_gia_Nhap": 9590000,
+    "So_luong_Ton": 11,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "28-12-2017",
+            "So_luong": 2,
+            "Don_gia": 11290000,
+            "Tien": 22580000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [],
+    "Nhom_Tivi": {
+        "Ten": "Sony",
+        "Ma_so": "SONY"
+    }
+}

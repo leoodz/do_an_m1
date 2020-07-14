@@ -1,0 +1,25 @@
+{
+    "Ten": "Smart Tivi TCL 32 inch",
+    "Ma_so": "TIVI_12",
+    "Ky_hieu": "L32S6100",
+    "Don_gia_Ban": 5780000,
+    "Don_gia_Nhap": 4580000,
+    "So_luong_Ton": 60,
+    "Danh_sach_Phieu_Ban": [],
+    "Danh_sach_Phieu_Nhap": [
+        {
+            "Ngay": "02-01-2018",
+            "So_luong": 5,
+            "Don_gia": 4580000,
+            "Tien": 22900000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        }
+    ],
+    "Nhom_Tivi": {
+        "Ten": "Khác",
+        "Ma_so": "KHAC"
+    }
+}
